@@ -27,11 +27,11 @@
         </div>
 		<div class="container">
 			<div class="row">
-				<div class="col">Testing Stuff</div>
-				<div class="col">aaa</div>
-				<div class="col">aaa</div>
-				<div class="col">aa</div>
-				<div class="col">aaa</div>
+				<div class="col border-1">Testing Stuff</div>
+				<div class="col border-1">aaa</div>
+				<div class="col border-1">aaa</div>
+				<div class="col border-1">aa</div>
+				<div class="col border-1">aaa</div>
 			</div>
 		</div>
     </div>
