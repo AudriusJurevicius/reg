@@ -14,9 +14,9 @@
     <div class="container">
         <!--Navigation script-->
         <nav>
-			<div>Main Menu</div>
-			<div>Tickets</div>
-			<div>Transactions</div>
+			<div><button class="btn">Main Menu</button></div>
+			<div><button class="btn">Tickets</button></div>
+			<div><button class="btn">Transactions</button></div>
 		</nav>
         <!--Main Stuff-->
         <div class="container">
